@@ -1,5 +1,6 @@
 ArrayList<Circle> circles = new ArrayList<Circle>();
 
+
 void setup() {
   size(500, 500);
 }
